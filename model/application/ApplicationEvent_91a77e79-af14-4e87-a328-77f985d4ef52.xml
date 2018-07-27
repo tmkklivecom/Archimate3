@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Event"
+    id="91a77e79-af14-4e87-a328-77f985d4ef52"
+    documentation="An application event is an application behavior element that denotes a state change."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Service"
+    id="9145a2f5-d4bf-43a3-b16b-47b060d9ef16"
+    documentation="A Technology Service represents an explicitly defined exposed technology behaviour.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Runing MS Dynamics business logic and presentation layer "/>

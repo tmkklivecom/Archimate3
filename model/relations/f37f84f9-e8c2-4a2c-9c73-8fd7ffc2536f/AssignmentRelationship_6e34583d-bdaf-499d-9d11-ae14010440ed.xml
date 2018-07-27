@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignment "
+    id="6e34583d-bdaf-499d-9d11-ae14010440ed"
+    documentation="The Assignment relationship links active element with behaviour element.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_9f20b39c-1f48-4a27-97e1-14f1b11358ad.xml#9f20b39c-1f48-4a27-97e1-14f1b11358ad"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_b32e7994-a72e-47f9-bfa7-2b0b494612dc.xml#b32e7994-a72e-47f9-bfa7-2b0b494612dc"/>
+</archimate:AssignmentRelationship>

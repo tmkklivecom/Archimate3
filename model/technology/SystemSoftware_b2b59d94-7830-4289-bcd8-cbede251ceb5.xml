@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Software"
+    id="b2b59d94-7830-4289-bcd8-cbede251ceb5"
+    documentation="System Software represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Windows Server 2012 SE, JEE Weblogic App Server, MS SQL Server&#xD;&#xA;&#xD;&#xA;"/>

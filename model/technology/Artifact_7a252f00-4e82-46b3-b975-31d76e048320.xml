@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artifact"
+    id="7a252f00-4e82-46b3-b975-31d76e048320"
+    documentation="An Artifact represents a piece of data that is used or produced in a software development process, or by deployment and operation of an IT system.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Database file, War file with JEE app."/>

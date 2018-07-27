@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node"
+    id="b00ea387-73f2-4878-beca-a03ac5f6f19a"
+    documentation="A Node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Concrete Virtual Machine&#xD;&#xA;"/>

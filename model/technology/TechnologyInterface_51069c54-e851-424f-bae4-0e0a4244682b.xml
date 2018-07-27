@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Interface"
+    id="51069c54-e851-424f-bae4-0e0a4244682b"
+    documentation="A Technology Interface represents a point of access where technology services offered by a Node can be accessed.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;HTML over HTTPS"/>

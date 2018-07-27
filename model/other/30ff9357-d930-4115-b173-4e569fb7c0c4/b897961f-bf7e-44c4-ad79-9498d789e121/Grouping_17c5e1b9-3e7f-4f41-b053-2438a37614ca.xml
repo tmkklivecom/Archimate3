@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Behaviour"
+    id="17c5e1b9-3e7f-4f41-b053-2438a37614ca"
+    documentation="The externally visible behavior (called a service), exposed to the recipients."/>

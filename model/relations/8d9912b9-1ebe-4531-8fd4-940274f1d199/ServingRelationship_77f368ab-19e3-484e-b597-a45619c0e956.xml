@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serve"
+    id="77f368ab-19e3-484e-b597-a45619c0e956"
+    documentation="The Serving relationship models that an element provides its functionality to another element.&#xD;&#xA;&#xD;&#xA;The Serving relationship describes how the  interfaces offered by active structure element serve entities in their environment. This relationship is applied for both the behaviour aspect and the active structure aspect.&#xD;&#xA;&#xD;&#xA;Category:&#xD;&#xA;Dependency.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;A Payment Interface serves the Customer, while the Payment Service serves the Pay Invoices Process of that customer.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_817f9c3d-6768-4e92-ac23-fd513dcb3531.xml#817f9c3d-6768-4e92-ac23-fd513dcb3531"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a276989d-88c0-400b-9e21-826f89ecc745.xml#a276989d-88c0-400b-9e21-826f89ecc745"/>
+</archimate:ServingRelationship>

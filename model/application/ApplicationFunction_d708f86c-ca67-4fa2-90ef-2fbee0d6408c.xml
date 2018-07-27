@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Function"
+    id="d708f86c-ca67-4fa2-90ef-2fbee0d6408c"
+    documentation="An Application Function represents automated behaviour that can be performed by an Application Component.&#xD;&#xA;&#xD;&#xA;An Application Function describes the internal behaviour of an Application Component. If this behaviour is exposed externally, this is done through one or more services.&#xD;&#xA;An Application Function may realize one or more Application Services. Application Services of other Application Functions and Technology Services may serve an Application Function. An Application Function may access Data Objects. An Application Component may be assigned to an Application Function (which means that the Application Component performs the Application Function).&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Customer Claims and Complaints CRUD +Q functionality&#xD;&#xA;"/>

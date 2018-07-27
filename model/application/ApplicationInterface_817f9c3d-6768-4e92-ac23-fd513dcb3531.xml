@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface"
+    id="817f9c3d-6768-4e92-ac23-fd513dcb3531"
+    documentation="An Application Interface represents a point of access where Application Services are made available to a user, another Application Component, or a Node.&#xD;&#xA;Example&#xD;&#xA;GUI, Rest Webservice, SOAP Webservice,  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

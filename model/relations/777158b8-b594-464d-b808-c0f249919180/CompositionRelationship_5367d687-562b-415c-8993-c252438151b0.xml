@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composition "
+    id="5367d687-562b-415c-8993-c252438151b0"
+    documentation="The Composition relationship indicates that an object consists of a number of other objects.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eda22351-782f-4625-9e12-a2f05b2b8398.xml#eda22351-782f-4625-9e12-a2f05b2b8398"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_817f9c3d-6768-4e92-ac23-fd513dcb3531.xml#817f9c3d-6768-4e92-ac23-fd513dcb3531"/>
+</archimate:CompositionRelationship>

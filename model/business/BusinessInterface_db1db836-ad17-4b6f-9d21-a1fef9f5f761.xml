@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Interface"
+    id="db1db836-ad17-4b6f-9d21-a1fef9f5f761"
+    documentation="A Business Interface is a point of access where a Business Service is made available to the environment.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Telephone, Email, Call centre, Web Chat, Help Desk.&#xD;&#xA;"/>

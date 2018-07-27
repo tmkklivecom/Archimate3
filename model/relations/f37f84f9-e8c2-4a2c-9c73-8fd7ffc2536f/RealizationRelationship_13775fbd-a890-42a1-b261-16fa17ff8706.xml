@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realization"
+    id="13775fbd-a890-42a1-b261-16fa17ff8706"
+    documentation="The realization relationship indicates that an entity (e.g. Internal Behaviour) plays a critical role in the creation, achievement, or operation of a more abstract entity (e.g. External Behaviour).&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_5dfbe0f4-c9dc-426b-92ec-ebbe188121b0.xml#5dfbe0f4-c9dc-426b-92ec-ebbe188121b0"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_17c5e1b9-3e7f-4f41-b053-2438a37614ca.xml#17c5e1b9-3e7f-4f41-b053-2438a37614ca"/>
+</archimate:RealizationRelationship>

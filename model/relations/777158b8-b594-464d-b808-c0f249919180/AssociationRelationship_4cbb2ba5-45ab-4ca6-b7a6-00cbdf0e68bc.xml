@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Association"
+    id="4cbb2ba5-45ab-4ca6-b7a6-00cbdf0e68bc"
+    documentation="The Association relationship models a relationship between objects that is not covered by another, more specific relationship.&#xD;&#xA;&#xD;&#xA;">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_a11438d6-8faf-4fd1-ab38-618d849df839.xml#a11438d6-8faf-4fd1-ab38-618d849df839"/>
+  <target
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_2ae10f8e-e10e-42d9-bf21-5b87771a9a2e.xml#2ae10f8e-e10e-42d9-bf21-5b87771a9a2e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger"
+    id="e858e2f1-0cc8-4a15-a454-e57eb95b8174"
+    documentation="The Triggering relationship describes the temporal or causal relations between behavioural elements (processes, functions, interactions, and events).&#xD;&#xA;&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_6c42fa9b-a7d5-4f02-bad4-23e5ddf83565.xml#6c42fa9b-a7d5-4f02-bad4-23e5ddf83565"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_5dfbe0f4-c9dc-426b-92ec-ebbe188121b0.xml#5dfbe0f4-c9dc-426b-92ec-ebbe188121b0"/>
+</archimate:TriggeringRelationship>

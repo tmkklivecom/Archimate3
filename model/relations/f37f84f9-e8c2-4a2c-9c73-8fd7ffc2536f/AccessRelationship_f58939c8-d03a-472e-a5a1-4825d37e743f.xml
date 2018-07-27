@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Read/Write"
+    id="f58939c8-d03a-472e-a5a1-4825d37e743f"
+    documentation="The Access relationship models the access of behavioural concepts to Passive element."
+    accessType="3">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_b32e7994-a72e-47f9-bfa7-2b0b494612dc.xml#b32e7994-a72e-47f9-bfa7-2b0b494612dc"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_c68a9a0c-8f3e-47a0-b13b-8c740a3b0d95.xml#c68a9a0c-8f3e-47a0-b13b-8c740a3b0d95"/>
+</archimate:AccessRelationship>

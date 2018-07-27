@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow"
+    id="2ae10f8e-e10e-42d9-bf21-5b87771a9a2e"
+    documentation="The Flow relationship describes the exchange or transfer of information or value between processes, function, interactions, and events.&#xD;&#xA;&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eda22351-782f-4625-9e12-a2f05b2b8398.xml#eda22351-782f-4625-9e12-a2f05b2b8398"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c37010e6-a61f-40a9-b5e8-0efce3304eef.xml#c37010e6-a61f-40a9-b5e8-0efce3304eef"/>
+</archimate:FlowRelationship>

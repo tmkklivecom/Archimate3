@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Service"
+    id="60d21be2-b9e8-434b-b656-9f9a4831716f"
+    documentation="A business service represents an externally  exposed business behavior.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Claims and Complaints Collection Service&#xD;&#xA;"/>

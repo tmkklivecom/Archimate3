@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Object"
+    id="a11438d6-8faf-4fd1-ab38-618d849df839"
+    documentation="A Data Object represents data structured for automated processing.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;Customer  Claims and Complaints Data">
+  <properties
+      key="Interface Type"
+      value="File"/>
+</archimate:DataObject>
