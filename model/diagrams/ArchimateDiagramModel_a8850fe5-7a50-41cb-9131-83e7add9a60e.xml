@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fc6acd28-7944-4e7c-8fc3-c78425c319e1"
-      targetConnections="1874e697-2738-4811-89d7-dc71836ab816">
+      targetConnections="1874e697-2738-4811-89d7-dc71836ab816"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="841d7440-a885-42e3-9c7e-21356990bc7f"
@@ -43,7 +44,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cfd2a670-dbb6-4ea7-8fad-9fbe30010f6c"
-        targetConnections="9d7d546d-efbf-43e0-80ce-5a09dc7d3781 45d89fe8-b1f6-412d-af74-944e7bd3e43c">
+        targetConnections="9d7d546d-efbf-43e0-80ce-5a09dc7d3781 45d89fe8-b1f6-412d-af74-944e7bd3e43c"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f0ca6c81-72be-4ae5-accf-ba6269241bae"
@@ -100,7 +102,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2e9140af-7c35-45a5-b851-9c4891195022"
-        targetConnections="4294630f-b3c4-41ae-94ca-39d1cc8f5120">
+        targetConnections="4294630f-b3c4-41ae-94ca-39d1cc8f5120"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e3a76e21-6811-4a5f-adf6-2e9243f0680a"
@@ -148,7 +151,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a470a88a-28f2-4dca-a046-e1ddc95bb1b2"
-      targetConnections="841d7440-a885-42e3-9c7e-21356990bc7f">
+      targetConnections="841d7440-a885-42e3-9c7e-21356990bc7f"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="458a8309-0b41-40b4-8c9a-0ce5591d84b3"
@@ -175,7 +179,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c195923b-daf7-4ccc-8da5-ec323e0f0ef2"
-        targetConnections="458a8309-0b41-40b4-8c9a-0ce5591d84b3 355b43ad-7b00-4d30-a718-e34756b5e9c3">
+        targetConnections="458a8309-0b41-40b4-8c9a-0ce5591d84b3 355b43ad-7b00-4d30-a718-e34756b5e9c3"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="23b2ef05-f38c-466d-93e2-e26044aa503b"
@@ -210,7 +215,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0c0533f7-0a32-4e1a-a6e7-182b8b13e429"
-        targetConnections="9113e3ae-2838-4b88-bb9a-666dd40cc6d0">
+        targetConnections="9113e3ae-2838-4b88-bb9a-666dd40cc6d0"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="17049b2f-f597-4b2e-8a02-cc81f78bc67c"
@@ -257,7 +263,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e68526ab-b211-42be-a193-6e5461f865ca">
+      id="e68526ab-b211-42be-a193-6e5461f865ca"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1874e697-2738-4811-89d7-dc71836ab816"
@@ -294,7 +301,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a8e4343c-feb0-454e-9179-31380ac8958c"
-        targetConnections="4b4daf3b-0fd0-4276-9fc0-3065ffb8cecb c522696d-904a-48ea-a029-aad3c840e35c">
+        targetConnections="4b4daf3b-0fd0-4276-9fc0-3065ffb8cecb c522696d-904a-48ea-a029-aad3c840e35c"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2f1ba057-2d24-4610-86e5-aca5b70d6262"
@@ -330,7 +338,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9858fb59-0780-4f71-83be-68f4ff39398e"
-        targetConnections="2134b5e9-719e-44d8-a53c-6f0438a96878">
+        targetConnections="2134b5e9-719e-44d8-a53c-6f0438a96878"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="87758ddd-5be7-4c7e-b114-8a01054508fc"

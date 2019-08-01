@@ -5,7 +5,8 @@
     id="4a392ca7-0354-4435-a9ed-3df99ba5c163">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7181ac91-db2f-4ec0-838c-514f8e9904e7">
+      id="7181ac91-db2f-4ec0-838c-514f8e9904e7"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9ffec7f9-a375-45fa-8cb0-3c1d85d0dd09"
@@ -42,7 +43,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="67b22ec4-27d7-4883-9b5f-ac78aaf4384b"
-        targetConnections="9ffec7f9-a375-45fa-8cb0-3c1d85d0dd09 ffd7d6d1-51f3-4877-b5c6-43c0ab4db8b7">
+        targetConnections="9ffec7f9-a375-45fa-8cb0-3c1d85d0dd09 ffd7d6d1-51f3-4877-b5c6-43c0ab4db8b7"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2992cc9d-571c-4cb0-88d0-eccd50453eaf"
@@ -77,7 +79,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="531d647a-92d8-4c4d-937d-36b401ca0ec0"
-        targetConnections="de8fe2e2-26e9-4b28-b2cd-67eb6f9ecb6c">
+        targetConnections="de8fe2e2-26e9-4b28-b2cd-67eb6f9ecb6c"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="946df715-e1d3-47e2-a71c-8abba1eed269"
@@ -156,7 +159,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3fb05c38-ae82-4130-9822-059b3ddee0ca"
-      targetConnections="135ba6ed-11f2-47ab-a102-02b6793912da">
+      targetConnections="135ba6ed-11f2-47ab-a102-02b6793912da"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f2f5a78b-8b67-4203-a929-5c19f5f500f6"
@@ -193,7 +197,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a546a1e7-f1ad-40f3-a66a-8b11cfe673ed"
-        targetConnections="f2f5a78b-8b67-4203-a929-5c19f5f500f6 5715b18b-a011-43e9-b442-bc0c1039fdfd">
+        targetConnections="f2f5a78b-8b67-4203-a929-5c19f5f500f6 5715b18b-a011-43e9-b442-bc0c1039fdfd"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8af485b1-177f-4168-a3eb-0840ad4052ef"
@@ -250,7 +255,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="22c7a994-e65f-4fd3-8c65-6c09f078ac17"
-        targetConnections="85222852-d7cb-4560-8e37-e711adb59f06">
+        targetConnections="85222852-d7cb-4560-8e37-e711adb59f06"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5517e266-f97c-49c5-89b8-2130b3f9cbdf"
@@ -298,7 +304,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f56ad20b-8f3a-47cc-8522-f03e8277c7ac"
-      targetConnections="b7eeb87e-24a7-4d97-b676-ba36c8563aea">
+      targetConnections="b7eeb87e-24a7-4d97-b676-ba36c8563aea"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6408cb09-d844-4aa7-8d41-6a33cba39b8d"
@@ -325,7 +332,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c20273f2-060c-482d-b81b-7b61272a6688"
-        targetConnections="6408cb09-d844-4aa7-8d41-6a33cba39b8d 84a3c7f6-3ea7-43b6-909e-2738b02ade76">
+        targetConnections="6408cb09-d844-4aa7-8d41-6a33cba39b8d 84a3c7f6-3ea7-43b6-909e-2738b02ade76"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="cd367619-3fef-4595-a7ad-d79173f0cdb1"
@@ -360,7 +368,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6525ceb6-17b9-45b3-b985-23c04bb6e9a6"
-        targetConnections="03a84227-284c-4295-b006-8726eb71cc98">
+        targetConnections="03a84227-284c-4295-b006-8726eb71cc98"
+        textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="7d97f8dd-a16b-4cc1-aba9-ab2df8542878"
